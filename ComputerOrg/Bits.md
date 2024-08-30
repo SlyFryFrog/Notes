@@ -43,11 +43,11 @@
 - R represents the remainder from the work.
 - B represents the binary number at said `n` position.
 ```
-2^n     W             R     B
-8	  |	  12 - 8    |   4   | 1
-4	  |	  4 - 4	    |   0   | 1
-2	  |	  	        |       | 0
-1	  |	  	        |       | 0
+2^n       W           R     B
+8   |   12 - 8    |   4   | 1
+4   |   4 - 4     |   0   | 1
+2   |             |       | 0
+1   |             |       | 0
 ```
 
 #### Decimal
